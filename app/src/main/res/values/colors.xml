@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="transparent">#00000000</color><!--透明色 -->
+    <color name="white">#FFFFFF</color><!--白色 -->
+    <color name="ivory">#FFFFF0</color><!--象牙色 -->
+    <color name="lightyellow">#FFFFE0</color><!--亮黄色 -->
+    <color name="yellow">#FFFF00</color><!--黄色 -->
+    <color name="snow">#FFFAFA</color><!--雪白色 -->
+    <color name="floralwhite">#FFFAF0</color><!--花白色 -->
+    <color name="lemonchiffon">#FFFACD</color><!--柠檬绸色 -->
+    <color name="cornsilk">#FFF8DC</color><!--米绸色 -->
+    <color name="seashell">#FFF5EE</color><!--海贝色 -->
+    <color name="lavenderblush">#FFF0F5</color><!--淡紫红 -->
+    <color name="papayawhip">#FFEFD5</color><!--番木色 -->
+    <color name="blanchedalmond">#FFEBCD</color><!--白杏色 -->
+    <color name="mistyrose">#FFE4E1</color><!--浅玫瑰色 -->
+    <color name="bisque">#FFE4C4</color><!--桔黄色 -->
+    <color name="lightblue">#ADD8E6</color><!--亮蓝色 -->
+    <color name="darkgray">#A9A9A9</color><!--暗灰色 -->
+    <color name="brown">#A52A2A</color><!--褐色 -->
+    <color name="sienna">#A0522D</color><!--赭色 -->
+</resources>
